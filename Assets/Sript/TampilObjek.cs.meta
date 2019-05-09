@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fa0eb2da187248241aed8b74ff494b6a
+timeCreated: 1544888831
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pesawatdanbandara: {fileID: 100024, guid: b1804b65c5958bd478f2f67f6f7545be, type: 3}
+  - kapaldanpelabuhan: {fileID: 100016, guid: c0c154a8ffe0b934e9007d3f860634b4, type: 3}
+  - sungai: {fileID: 100002, guid: acb2b3cad3e6cfb4788e61f72063e24d, type: 3}
+  - jalanarteri: {fileID: 100000, guid: c23425a21dedbdb47a73a1c2c3202cdb, type: 3}
+  - jalankolektor: {fileID: 100000, guid: 90e4cb52564a3c548b9b272b104bd583, type: 3}
+  - pura: {fileID: 100462, guid: 8727c799c9575764db96f9547fc16a3d, type: 3}
+  - sawah: {fileID: 100006, guid: 101508a5477aeca43912a6d43528d618, type: 3}
+  - dropdownMenu: {instanceID: 0}
+  - gambar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
