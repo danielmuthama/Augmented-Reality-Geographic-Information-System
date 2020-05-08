@@ -5,15 +5,15 @@
 
 Created using: 
   <ul>
-    <li> Unity Engine and </li> 
+    <li> Unity Engine </li> 
     <li> c # programming language </li> 
     <li> Map : ArcGIS </li>
     <li> Asset 2D : Photoshop </li>
-    <li> Asset 3D : Sketchup 3D <li>
+    <li> Asset 3D : Sketchup 3D </li>
   </ul>
 
   
 </br>
 Applications can be download at
-<p>s.id/ARGIS</P>
+<p><a href ="http://s.id/ARGIS" target ="_blank">s.id/ARGIS</a></P>
 
