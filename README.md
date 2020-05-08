@@ -1,5 +1,5 @@
 <h1 style="color:blue"> Augmented Reality Geographic Information System </h1>
-<a href="http://rachmatgunawan.com/static/media/ar.c07cc793.png"></a>
+<img src="http://rachmatgunawan.com/static/media/ar.c07cc793.png"/>
 
 <p>The Application that contains Geographic Information in the form of a Digital Elevation Model (DEM) map of Bali Island that has been processed with ArcGIS is made into Augmented Reality. </p>
 
